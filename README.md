@@ -44,7 +44,7 @@ The `.bashrc` file is a script that runs every time a new terminal session is st
 
 This `.bashrc` file is a comprehensive setup that not only enhances the shell experience with useful aliases and functions but also provides system-specific configurations and safety features to cater to different user needs and system types. It is designed to make the terminal more user-friendly, efficient, and powerful for an average user.
 
-### Setup
+### Setup [Arch]
 This sets up mybash for you. It will backup your current bashrc if you already have one.
 
 1. Create a directory named `build` in your home directory:
